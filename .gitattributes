@@ -1,0 +1,4 @@
+*.c++ linguist-detectable=false
+*.swift linguist-detectable=false
+*.CMake linguist-detectable=false
+*.HTML linguist-detectable=false
